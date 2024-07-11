@@ -39,9 +39,9 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("D:/HUST/20232/Do_An_1/mq2_sensor_esp32/MQ2_ESP32/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake")
-  include("D:/HUST/20232/Do_An_1/mq2_sensor_esp32/MQ2_ESP32/build/esp-idf/mbedtls/mbedtls/3rdparty/cmake_install.cmake")
-  include("D:/HUST/20232/Do_An_1/mq2_sensor_esp32/MQ2_ESP32/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake")
+  include("D:/HUST/20232/Fake_alarm/FIRMWARE/MQ2_ESP32/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake")
+  include("D:/HUST/20232/Fake_alarm/FIRMWARE/MQ2_ESP32/build/esp-idf/mbedtls/mbedtls/3rdparty/cmake_install.cmake")
+  include("D:/HUST/20232/Fake_alarm/FIRMWARE/MQ2_ESP32/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake")
 
 endif()
 

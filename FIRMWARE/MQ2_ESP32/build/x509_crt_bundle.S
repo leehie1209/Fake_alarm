@@ -1,4 +1,4 @@
-/* * Data converted from D:/HUST/20232/Do_An_1/mq2_sensor_esp32/MQ2_ESP32/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from D:/HUST/20232/Fake_alarm/FIRMWARE/MQ2_ESP32/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

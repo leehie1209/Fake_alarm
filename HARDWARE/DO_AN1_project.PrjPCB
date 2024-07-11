@@ -105,52 +105,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHTRENQM
 
-[Document5]
-DocumentPath=Project Logs for DO_AN1_project\PCB_DO_AN_1_ver1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WSGUPLUA
-
-[Document6]
-DocumentPath=Project Logs for DO_AN1_project\PCB_DO_AN_1_ver2.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QJAYKBYS
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for DO_AN1_project\Design Rule Check - PCB_DO_AN_1_ver1.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for DO_AN1_project\Design Rule Check - PCB_DO_AN_1_ver2.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for DO_AN1_project\Move Component(s) Origin To Grid - PCB_DO_AN_1_ver1.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0

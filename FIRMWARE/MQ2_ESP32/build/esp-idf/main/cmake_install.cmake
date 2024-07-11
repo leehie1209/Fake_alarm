@@ -1,4 +1,4 @@
-# Install script for directory: D:/HUST/20232/Do_An_1/mq2_sensor_esp32/MQ2_ESP32/main
+# Install script for directory: D:/HUST/20232/Fake_alarm/FIRMWARE/MQ2_ESP32/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
